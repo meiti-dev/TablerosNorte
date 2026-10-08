@@ -1,6 +1,14 @@
 {
   "revisar": [
-    "src/fabrica/diccionario/**"
+    "server/moldes/TablerosNorte_muugzt8s__Configuracion.jsx",
+    "server/moldes/TablerosNorte_muugzt8s__PanelRolesPermisos.jsx",
+    "server/moldes/TablerosNorte_muugzt8s__EN_DashboardResumen.jsx",
+    "server/moldes/TablerosNorte_muugzt8s__EN_TableroKanban.jsx",
+    "server/moldes/TablerosNorte_muugzt8s__EN_DetalleTarjeta.jsx",
+    "server/moldes/TablerosNorte_muugzt8s__EN_GestorProyectos.jsx",
+    "server/moldes/TablerosNorte_muugzt8s__EN_DirectorioEquipo.jsx",
+    "server/moldes/TablerosNorte_muugzt8s__EN_SemillaColumnas.jsx",
+    "server/moldes/TablerosNorte_muugzt8s__EN_CalendarioTarjetas.jsx"
   ],
   "vulnerabilidades_aceptadas": [
     {
