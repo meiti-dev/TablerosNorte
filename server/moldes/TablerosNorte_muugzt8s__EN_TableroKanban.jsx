@@ -33,7 +33,7 @@
     await MEITI.mutar(url, {
       method: 'PUT',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ id: 'ui_' + uid, usuario_id: uid, tarjeta_activa_id: id })
+      body: JSON.stringify({ id: 'estado_' + uid, usuario_id: uid, tarjeta_activa_id: id })
     }, {
       alLograr: () => MEITI.irAPagina('detalle_tarjeta'),
       alFallar: setError
